@@ -1,0 +1,19 @@
+
+
+[ moleculetype ]
+; molname	nrexcl
+Li  1
+
+[ atoms ]
+; id  at type     res nr  res name  at name  cg nr  charge    mass
+  1   Li           1       Li       Li         1   0.910000       6.941
+
+[ bonds ]
+; i     j       funct   length  force.c.
+
+[ angles ]
+; i     j       k       funct   angle   force.c. 
+
+[ dihedrals ]
+; ai  ak  aj  al  funct
+
