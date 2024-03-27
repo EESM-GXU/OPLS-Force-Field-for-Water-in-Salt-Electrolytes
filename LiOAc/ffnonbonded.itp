@@ -1,0 +1,13 @@
+[defaults]
+;nbfunc comb-rule gen-pairs fudgeLJ fudgeQQ
+1           2        no        1       1
+
+[ atomtypes ]
+;name         mass      charge  ptype sigma   epislon
+OW         15.9994      -0.8476      A   0.3166   0.6500
+HW          1.0080       0.4238      A   0.0000   0.0000
+CZ         12.011       0.672000     A   0.375    0.43932
+C          12.011       -0.268800    A   0.35     0.27614
+H          1.008        0.057600     A   0.25     0.12552
+O          15.999       -0.768000    A   0.296    0.87864
+Li          6.941       0.960000     A   0.287    0.00050
