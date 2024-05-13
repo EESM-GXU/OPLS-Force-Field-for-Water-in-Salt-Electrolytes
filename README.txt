@@ -11,4 +11,5 @@ Journal of Chemical Theory And Computation 2006, 2, 1499-509. doi:10.1021/ct6002
 Berendsen H J C, Grigera J R, Straatsma T P. "The Missing Term in Effective Pair Potentials. "
 The Journal of Physical Chemistry, 1987, 91(24): 6269-6271. doi:10.1021/j100308a038
 
-
+Zhou, J.; He, H.; Xing, F.; Long, Y.; Mo, T., "Optimization of the OPLS Force Field for "Water-in-Salt" Electrolytes."
+Journal of Molecular Liquids 2024, 403, 124923. doi:10.1016/j.molliq.2024.124923
